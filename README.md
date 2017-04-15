@@ -1,4 +1,4 @@
-# 8 Queens Problem Solving with Simulated Annealing
+# Solving 8-Queens problem using Simulated Annealing method
 
 The process involves::
 
